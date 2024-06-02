@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/polinagusakova/Social-proof-section)
-- Live Site URL: [GitHub pages](https://polinagusakova.github.io/Order-summary-component/)
+- Live Site URL: [GitHub pages](https://polinagusakova.github.io/Social-proof-section/)
 
 ## My process
 
